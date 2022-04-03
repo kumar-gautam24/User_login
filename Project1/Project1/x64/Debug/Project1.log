@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Visual studio projects\Project1\Project1\Source.cpp(13,21): warning C4129: 'V': unrecognized character escape sequence
+D:\Visual studio projects\Project1\Project1\Source.cpp(13,21): warning C4129: 'P': unrecognized character escape sequence
+D:\Visual studio projects\Project1\Project1\Source.cpp(38,13): warning C4129: 'V': unrecognized character escape sequence
+D:\Visual studio projects\Project1\Project1\Source.cpp(38,13): warning C4129: 'P': unrecognized character escape sequence
+  Project1.vcxproj -> D:\Visual studio projects\Project1\x64\Debug\Project1.exe
